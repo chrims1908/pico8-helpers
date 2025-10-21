@@ -3,7 +3,6 @@
 
 function _init()
   cls(0)
-  -- poke(0x5f2c, 3) -- 64x64 mode
 end
 
 function _update()
