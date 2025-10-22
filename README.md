@@ -7,4 +7,5 @@ useful code snippets for pico-8.
  * ``boilerplate-postcart.lua`` - Skeleton code for beginning a Postcart project (300 characters or less).
  * ``borderizers.lua`` - Add colored borders to text and sprites.
  * ``boxcollision.lua`` - Simple collision function for 2 square actors.
+ * ``mapcollision.lua`` - Directional collision for an actor with map tiles based on sprite flags.
  * ``videomodes.lua`` - Change PICO-8's screen resolution and more.
