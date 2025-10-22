@@ -17,7 +17,7 @@ function bspr(s,x,y,f,c) -- Takes a sprite number, x position, y position, flip 
   end
   for i=-1,1 do -- Smear recolored sprites to create the background.
     for j=-1,1 do
-      spr(s,x,y,1,1,f)
+      spr(s,x+i,y+j,1,1,f)
     end
   end
   pal() -- Reset to default colors.
