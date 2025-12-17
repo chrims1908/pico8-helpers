@@ -8,4 +8,5 @@ useful code snippets for pico-8.
  * ``borderizers.lua`` - Add colored borders to text and sprites.
  * ``boxcollision.lua`` - Simple collision function for 2 square actors.
  * ``mapcollision.lua`` - Directional collision for an actor with map tiles based on sprite flags.
+ * ``topdownplayer-verbose.lua`` - Basic velocity-based player movement with impossible input correction.
  * ``videomodes.lua`` - Change PICO-8's screen resolution and more.
